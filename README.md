@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-About Bash projects
+Tasks 0. Where am I?
